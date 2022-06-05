@@ -9,7 +9,7 @@ Este repositório consiste em uma API Spring realizando autenticação OAuth 2.0
   * ModelMapper
 
 Para simular as requisições foi utilizado o software Insomnia. <br/>
-<a href="#">Colection com todos os endpoints.</a>
+<a href="https://github.com/silvalucas/client-crud/blob/main/teste-tecnico-colection.json">Colection com todos os endpoints.</a>
  
 <strong>Configurações:</strong>
   - O projeto roda por default na porta :8080.
